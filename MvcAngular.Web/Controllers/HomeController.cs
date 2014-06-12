@@ -15,6 +15,7 @@ namespace MvcAngular.Web.Controllers
 
         public ActionResult Bootstrap()
         {
+            // test comment
             return View();
         }
     }
