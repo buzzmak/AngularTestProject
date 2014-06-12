@@ -1,3 +1,5 @@
+This is just a copy of the AngularJS/MVC Web Project
+
 #Basic AngularJS/MVC Web Project
 ##Basic ASP.NET MVC project to build AngularJS examples with
 
